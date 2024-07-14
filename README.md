@@ -17,5 +17,5 @@ To build, run "make" once you have cc65 installed. Then run the DRVUTILS.PRG on 
         6.  Reset All Drives (8 - 15)
         7.  Change CMD Partition
         8.  Issue Direct Disk Command (Experimental)
-        9.  Get CMD Partition Directory
+        9.  Get CMD Partition Directory (Experimental)
         10. Exit to Basic

@@ -341,7 +341,7 @@ void menuShow()
     printf("\n        6.  Reset All Drives (8 - 15)");
     printf("\n        7.  Change CMD Partition");
     printf("\n        8.  Issue Direct Disk Command (Experimental)");
-    printf("\n        9.  Get CMD Partition Directory");
+    printf("\n        9.  Get CMD Partition Directory (Experimental)");
     printf("\n        10. Exit to Basic");
     printf("\n\n\n        Choice: ");
     scanf("%u", &choice);
